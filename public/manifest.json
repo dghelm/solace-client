@@ -11,8 +11,9 @@
         }
     ],
     "orientation": "portrait",
-    "name": "",
-    "short_name": "",
+    "name": "Solace UNOFFICIAL",
+    "short_name": "Solace UNOFFICIAL",
     "start_url": ".",
-    "theme_color": "#"
+    "theme_color": "#",
+    "skylink": ""
 }
